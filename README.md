@@ -1,2 +1,2 @@
-# electricity-cost-calculator
-Electricity Cost Calculator For The BD DPDC.
+# Electricity Cost Calculator
+Calculate The Units (KWh) Approximate Cost For The Dhaka DPDC.
